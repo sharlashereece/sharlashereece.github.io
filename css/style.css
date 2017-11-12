@@ -11,4 +11,15 @@ body {font-family: 'Roboto Slab', serif; background-color: #cc9dc0}
 .fleekiness {background-color: green;}
 
 img { max-width: 100% }
-.home {background-color: img/tree.jpg}
+.home {background-image: url("../img/tree.jpg");
+background-size:cover;}
+.jumbotron {background-color: white; }
+.logo {height: 2px; width:2px;}
+.my-4 .lead {font-family: 'Roboto Slab', serif;}
+
+.nav-bounce:hover {
+  -webkit-animation-name: bounce;
+  animation-name: bounce;
+  -webkit-transform-origin: center bottom;
+  transform-origin: center bottom;
+}
