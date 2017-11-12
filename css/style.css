@@ -1,0 +1,14 @@
+.profile-pic {max-width: 100%;}
+.profile-title {color:#4f1272;font-family: 'Handlee', cursive;}
+.SPOT { color:#81b71a; }
+.FACE {color:#3b5998;}
+.LINK {color:navy;}
+.INSTA {color:#fb3958;}
+body {font-family: 'Roboto Slab', serif; background-color: #cc9dc0}
+.my-nav {color:#4f1272;font-family: 'Handlee', cursive; background-color: #cfc6d1; font-style:italic;}
+
+.weightloss-progress {background-color: red;}
+.fleekiness {background-color: green;}
+
+img { max-width: 100% }
+.home {background-color: img/tree.jpg}
