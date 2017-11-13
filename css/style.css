@@ -14,8 +14,9 @@ img { max-width: 100% }
 .home {background-image: url("../img/tree.jpg");
 background-size:cover;}
 .jumbotron {background-color: white; }
-.logo {height: 2px; width:2px;}
-.my-4 .lead {font-family: 'Roboto Slab', serif;}
+
+
+.intro-front {font-family: 'Handlee', cursive; color:black;}
 
 .nav-bounce:hover {
   -webkit-animation-name: bounce;
@@ -23,3 +24,5 @@ background-size:cover;}
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
 }
+
+.blog1 {color:violet; font-family: 'Handlee', cursive; background: none }
