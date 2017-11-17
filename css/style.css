@@ -25,4 +25,8 @@ background-size:cover;}
   transform-origin: center bottom;
 }
 
-.blog1 {color:violet; font-family: 'Handlee', cursive; background: none }
+.blog1 {color:navy; font-family: 'Handlee', cursive; background: none; font-style:bold
+}
+.lsc { max-width: 50%;}
+.petchey {color:violet;max-width: 50%;}
+.bullet-point {text-indent: 10%;}
